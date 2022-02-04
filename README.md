@@ -6,6 +6,8 @@ Ecomerence store made with react framework.
 
 You can add any item to the cart and payment methods are applied here. Stipes are used in the payment methods.
 
+![smapleOutput](/samplePic.png)
+
 ## Getting Started
 
 ### Dependencies
